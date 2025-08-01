@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2,
+  "extensions.ignoreRecommendations": false,
+  "editor.lineNumbers": "off",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "*.erb": "html",
+    "ruby": "html"
+  },
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.useInlineCompletions": true,
+}
